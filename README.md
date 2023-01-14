@@ -1,6 +1,6 @@
 
 ## Project Title
- The Impact of Inconsistent Human Annotations on AI driven Clinical Decision Making
+ **The Impact of Inconsistent Human Annotations on AI driven Clinical Decision Making**
 
 ## Repository File Descriptions
 
