@@ -1,4 +1,3 @@
-# npjDM-Submission-2022
 
 **Project Title:** The Impact of Inconsistent Human Annotations on AI driven Clinical Decision Making
 
